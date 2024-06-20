@@ -1,5 +1,4 @@
 ; Chapter 7 Program 4
-; Author: Kathryn Sheahen
 ; Date: 4/17/2024
 
 .386
